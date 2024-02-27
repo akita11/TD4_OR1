@@ -14,7 +14,7 @@
 - Add ".inc OR1SC.cir" at 2nd line in netlist file, TD4core.cir.
 - Open TD4core.GDS with KLayout, execute "get_reference" macro with specifying TD4core.cir for reference netlist, and then, execute LVS (mainly digitl script).
 
-<img src="https://github.com/akita11/TD4_OR1/blob/main/schematic/LVSresult.png" width="320px">
+<img src="https://github.com/akita11/TD4_OR1/blob/main/schematic/LVSresult.jpg" width="320px">
 
 ## How to fabricate chip
 
