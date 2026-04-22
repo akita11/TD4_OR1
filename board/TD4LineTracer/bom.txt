@@ -1,0 +1,14 @@
+Ir Ref UNIT
+https://shop.m5stack.com/products/infrared-reflective-sensor-unit
+
+Solenoid UNIT
+https://www.switch-science.com/products/8517
+https://github.com/akita11/SolenoidUNIT
+
+- DC Motor (x2): GA12-N20 (5V / 250rpm)
+
+Body hardwares:
+- MDF(thickness=2.5mm): cut using TD4tracer.svg
+- 12mm Stand-off (spacer) (x8)
+- M3x6mm screw (x4)
+- M3 nut (x4)
